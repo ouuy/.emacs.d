@@ -12,5 +12,6 @@ version that it is aware of.  So simply bypass the version check."
       ad-do-it))
 
 (setq-default ecb-tip-of-the-day nil)
+(setq ecb-layout-name "leftright3")
 
 (provide 'init-ecb)
