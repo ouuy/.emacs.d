@@ -6,6 +6,6 @@
 (global-set-key (kbd "C-k") 'kill-whole-line)
 
 ;; Window switching
-(windmove-default-keybindings)
+(windmove-default-keybindings 'ctrl)
 
 (provide 'ouuy-kbds)
